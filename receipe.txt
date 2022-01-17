@@ -5,4 +5,3 @@ idly
 dosa
 fish
 mutton
-plY
