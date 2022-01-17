@@ -10,3 +10,6 @@ mutton
 chicken
 prawn 
 crab
+
+chicken 
+panner
