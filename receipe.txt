@@ -5,3 +5,8 @@ idly
 dosa
 fish
 mutton
+
+
+chicken
+prawn 
+crab
